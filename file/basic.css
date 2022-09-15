@@ -1,0 +1,58 @@
+html 
+{
+    background-color: black;
+}
+ 
+body 
+{ 
+   font-family: sans-serif; 
+   font-size: 1em;
+ 
+}
+  
+.top
+{
+   width: 100%
+}
+
+h1
+{ 
+   text-align: center; 
+   padding-top: 20px;
+   text-transtform: uppercase;
+   color: #ffd88e;
+   
+ 
+}
+
+
+h2
+{ 
+   color: black;
+   text-transtform: uppercase;
+}
+
+h3 
+{ 
+  color: black; 
+  text-transform; uppercase; 
+}
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+p {
+  margin: 0;
+  padding: 1em 0;
+}
+
+.btn {
+  display: inline-block;
+  background: #333;
+  color: #fff;
+  text-decoration: none;
+  padding: 1em 2em;
+  border: 1px solid #666;
+  margin: 0.5em 0;
+}
